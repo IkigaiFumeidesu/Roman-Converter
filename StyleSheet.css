@@ -1,0 +1,40 @@
+﻿body {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+#pole {
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    color: black;
+}
+
+.vysvetlivka {
+    text-align: center;
+    margin: 20px auto;
+    width: 400px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#check-btn {
+    padding: 10px 20px;
+    background-color: hotpink;
+    border-radius: 10px;
+}
+
+#text-input {
+    padding: 10px 20px;
+    border: none;
+    border-bottom: 4px solid black;
+}
